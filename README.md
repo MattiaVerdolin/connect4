@@ -53,4 +53,9 @@ mvn clean install
 ## 👤 Authors
 - **Mattia Verdolin** 📧 [mattia.verdolin@student.supsi.ch](mailto:mattia.verdolin@student.supsi.ch)
 - **Francesco Fasola** 📧 [francesco.fasola@student.supsi.ch](mailto:francesco.fasola@student.supsi.ch)
-- **Alessandro Cantoni** 📧 [alessandro.cantoni@student.supsi.ch](mailto:alessandro.cantoni@student.supsi.ch)  
+- **Alessandro Cantoni** 📧 [alessandro.cantoni@student.supsi.ch](mailto:alessandro.cantoni@student.supsi.ch)
+
+---
+
+## 📜 License
+This project was developed for educational purposes as part of the SUPSI Software Engineering 1 course. Redistribution or use outside the context of the course may require explicit permission from the authors.
