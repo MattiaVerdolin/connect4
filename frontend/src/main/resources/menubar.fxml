@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<MenuBar xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.supsi.connectfour.frontend.dispatcher.MenuBarDispatcher">
+    <Menu mnemonicParsing="false" text="%file">
+        <MenuItem fx:id="newMenuItem" mnemonicParsing="false" onAction="#newGame" text="%newMenuItem"/>
+        <MenuItem fx:id="openMenuItem" mnemonicParsing="false" onAction="#openGame" text="%openMenuItem"/>
+        <SeparatorMenuItem mnemonicParsing="false"/>
+        <MenuItem fx:id="saveMenuItem" mnemonicParsing="false" onAction="#saveGame" text="%saveMenuItem"/>
+        <MenuItem fx:id="saveasMenuItem" mnemonicParsing="false" onAction="#saveGameAs" text="%saveasMenuItem"/>
+        <SeparatorMenuItem mnemonicParsing="false"/>
+        <MenuItem fx:id="quitMenuItem" mnemonicParsing="false" onAction="#quit" text="%quitMenuItem"/>
+    </Menu>
+    <Menu mnemonicParsing="false" text="%edit">
+        <MenuItem fx:id="preferencesMenuItem" mnemonicParsing="false" onAction="#showPreferences" text="%preferencesMenuItem"/>
+    </Menu>
+    <Menu mnemonicParsing="false" text="%help">
+        <MenuItem fx:id="aboutMenuItem" mnemonicParsing="false" onAction="#showAbout" text="%aboutMenuItem"/>
+        <MenuItem fx:id="helpMenuItem" mnemonicParsing="false" onAction="#showHelp" text="%helpMenuItem"/>
+    </Menu>
+</MenuBar>

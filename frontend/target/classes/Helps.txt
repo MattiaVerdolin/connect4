@@ -1,0 +1,12 @@
+ - Obiettivo del Gioco -
+L'obiettivo di Forza 4 è essere il primo giocatore a creare una linea ininterrotta di quattro dischi del proprio colore. La linea può essere orizzontale, verticale o diagonale.
+
+ - Oggetti di Gioco -
+● Tabellone: Il tabellone è una griglia verticale con 7 colonne e 6 righe.
+● Dischi: Ogni giocatore ha 21 dischi di un colore specifico (uno giallo e uno rosso).
+
+ - Svolgimento del Gioco -
+● Inizio: I giocatori scelgono chi inizia. Il gioco procede a turni alterni.
+● Turno di Gioco: Durante il proprio turno, un giocatore sceglie una colonna e inserisce un disco nella parte superiore della colonna. Il disco cade e occupa il punto disponibile più basso nella colonna.
+● Vittoria: Il gioco termina quando un giocatore forma una linea ininterrotta di quattro dischi del proprio colore. La linea può essere orizzontale, verticale o diagonale.
+● Parità: Se il tabellone si riempie completamente senza che nessun giocatore abbia formato una linea di quattro dischi, il gioco termina in parità.
