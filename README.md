@@ -6,6 +6,12 @@ The application follows an **MVC architecture for the frontend** and a **multila
 
 The project was developed as a team effort and represents our **first structured approach to software engineering**. While the graphical interface is quite simple, the focus was on **applying best practices in software architecture** rather than creating an advanced UI.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49621142-20f1-47a3-a01f-9e83d3cd3208" height="300px">
+  <img src="https://github.com/user-attachments/assets/40557489-1cdb-4217-9f50-d89f19f355e8" height="300px">
+</p>
+
+
 ---
 ## 🚀 Features
 ### 🏆 Game Mechanics
